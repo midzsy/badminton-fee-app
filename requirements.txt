@@ -1,2 +1,5 @@
 streamlit
 pandas
+calendar
+urllib.parse
+base
